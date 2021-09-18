@@ -1,0 +1,14 @@
+{
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"eslint.validate": [
+		"javascript"
+	],
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"cSpell.words": [
+		"browserslist"
+	]
+}
